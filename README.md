@@ -1,8 +1,7 @@
 # Image Processing With Docker
+<img src="docker.webp" alt="Docker Image" width="300">
 
 ## What is Docker?
-
-resimmmm
 
 Docker is an open-source platform used to develop, deploy, and run applications quickly and reliably. Docker creates lightweight, portable packages called **containers** that allow applications to run independently of their environment. Containers include all dependencies, libraries, and files needed for the application to run. This way, an application can operate consistently on any system using the same container.
 

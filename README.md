@@ -1,5 +1,5 @@
 # Image Processing With Docker
-<img src="docker.webp" alt="Docker Image" width="300">
+<img src="docker_image.webp" alt="Docker Image" width="300">
 
 ## What is Docker?
 
@@ -136,4 +136,4 @@ sudo docker --version
 
 ### People Detection Project
 - **Description**: Detects people in images or video streams using YOLOv8.
-- **Code**: [People Detection Project Code](path/to/people_detection_code.py)
+- **Code**: [People Detection Project File](People_Detection)

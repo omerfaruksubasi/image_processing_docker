@@ -130,7 +130,7 @@ sudo docker --version
 
 ### Image Reading Project
 - **Description**: This project reads and displays images using OpenCV.
-- **Code**: [Image Reading Project Code](path/to/image_reading_code.py)
+- **Code**: [Image Reading Project File](Image_Reading)
 
 ---
 
